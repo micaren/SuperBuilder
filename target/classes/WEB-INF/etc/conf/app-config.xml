@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<properties fileName="core/app-core.properties" />
+	<xml fileName="utils/app-session-config.xml" />
+	<properties fileName="utils/app-mail.properties" />
+	<xml fileName="utils/app-mail-template.xml" />
+	<additional>
+	</additional>
+</configuration>
